@@ -37,4 +37,13 @@ Key libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
 
 # Installation
 To run this project, clone the repository and install the required dependencies.
+https://github.com/JARVIS1069/CodeAlpha_Iris-Flower-Classification
 
+# Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Contact Information
+Maintainer: Arpeet Mahajan Email: arpeet1104@gmail.com
