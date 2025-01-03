@@ -17,15 +17,15 @@ Data Analysis and Visualization : Includes descriptive statistics, correlation h
 
 It Utilizes machine learning algorithms such as:
 
-Logistic Regression
+1.Logistic Regression
 
-Decision Trees
+2.Decision Trees
 
-k-Nearest Neighbors (k-NN)
+3.k-Nearest Neighbors (k-NN)
 
-Support Vector Machines (SVM)
+4.Support Vector Machines (SVM)
 
-Random Forest
+5.Random Forest
 
 Model Evaluation : Metrics such as accuracy, precision, recall, and F1-score are used to compare the performance of models.
 Interactive Predictions: A script or web interface allows users to input features and get real-time predictions of flower species.
