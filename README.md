@@ -6,26 +6,26 @@ The Iris dataset is one of the most well-known datasets in machine learning, fir
 
 This project aims to:
 
-1.Explore and visualize the Iris dataset.
+1. Explore and visualize the Iris dataset.
 
-2.Implement and evaluate various classification algorithms.
+2. Implement and evaluate various classification algorithms.
 
-3.Develop an easy-to-use model for classifying iris flower species based on input features.
+3. Develop an easy-to-use model for classifying iris flower species based on input features.
 
 # Features
 Data Analysis and Visualization : Includes descriptive statistics, correlation heatmaps, and pair plots for understanding data patterns.
 
 It Utilizes machine learning algorithms such as:
 
-1.Logistic Regression
+1. Logistic Regression
 
-2.Decision Trees
+2. Decision Trees
 
-3.k-Nearest Neighbors (k-NN)
+3. k-Nearest Neighbors (k-NN)
 
-4.Support Vector Machines (SVM)
+4. Support Vector Machines (SVM)
 
-5.Random Forest
+5. Random Forest
 
 Model Evaluation : Metrics such as accuracy, precision, recall, and F1-score are used to compare the performance of models.
 Interactive Predictions: A script or web interface allows users to input features and get real-time predictions of flower species.
